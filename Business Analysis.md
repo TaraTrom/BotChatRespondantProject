@@ -21,7 +21,7 @@ Hashtags - # Symbol to link to topics related to client's social media accounts.
 
 Ats - @ Symbol to link to topics related to client's social media accounts.
 
-Major stakeholders
+## Major stakeholders
 The major stakeholder is the content creator that hires the company to review the success of the social media branding. The client's opinion of the business success determines the continuation and direction of the company and company responses to online users. The goal of the company is to improve the quantity and quality of user interaction with their social media branding. The image and specific interaction the client wants to create is subjective, thus the client is intricately involved and updated during all three divisions based off of changes to interaction averages and has the ability to direct responses and override analyst solutions.
 
 # References
